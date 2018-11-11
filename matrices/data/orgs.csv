@@ -1,0 +1,11 @@
+orgID,orgName,orgCode,sector,event1,event2,event3,event4,event5,event6,event7,event8,event9,event10
+1,Acme Water Utility,ACME,1,1,1,0,1,1,0,0,1,0,0
+2,Davis Department of Transportation,DDOT,2,1,0,0,0,0,0,0,0,0,0
+3,Yolo Regional Transit,YOLO,2,0,0,0,0,0,1,0,0,1,0
+4,UC Davis,UCD,3,0,0,0,0,0,1,0,0,0,0
+5,PG&E,PGE,1,0,0,0,0,1,1,0,0,1,0
+6,Davis Community Center,DCC,2,0,0,0,0,1,1,1,0,0,0
+7,Davis Bike Coop,BCOOP,4,1,0,1,0,1,1,1,0,1,1
+8,Davis Senior Center,SENIOR,2,0,0,1,0,0,0,0,1,0,1
+9,Davis High School,DHS,2,0,0,0,0,0,0,0,0,0,0
+10,Davis Wastewater Services,DWS,2,1,0,0,0,0,0,0,0,0,0

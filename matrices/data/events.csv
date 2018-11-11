@@ -1,0 +1,11 @@
+eventID,eventName,eventCode,eventStart,eventEnd,isWater_q,reg
+1,Davis Water Conservation Days,DWCD,2018,ongoing,1,1
+2,Oktober Fest,OKT,2017,2016,1,0
+3,Meet the Arboretum Tour,MAT,2015,ongoing,0,1
+4,Bucks for Ducks Gala,BDUCK,2009,ongoing,0,1
+5,Davis Farmers Market,DFM,1990,ongoing,0,0
+6,Clearance Plant Sale,CPS,2000,2017,0,0
+7,Davis Wetlands Tour,WET,2011,ongoing,1,1
+8,Memorial Grove Tree Care Event,MGROVE,1999,2015,0,1
+9,Yolo Bypass Wildlife Area Tours,YOLO,2001,2011,1,1
+10,FARM Davis Fundraise,FARM,2002,ongoing,1,0
